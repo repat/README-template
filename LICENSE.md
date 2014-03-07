@@ -1,0 +1,6 @@
+> The CHOOSE-ONE License (SHORT)
+
+> Copyright (c) <YEAR> <AUTHOR>
+
+> LICENSE TEXT GOES HERE
+> AND HERE
