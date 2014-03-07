@@ -4,6 +4,7 @@ README-template
 
 ## Available Templates
 * [For Android/iOS Apps](https://github.com/repat/README-template/blob/master/README-apps.md)
+* [For websites made with GitHub Pages](https://github.com/repat/README-template/blob/master/README-websites-gh-pages.md)
 
 ## Contact
 #### repat
