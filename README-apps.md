@@ -8,9 +8,11 @@ App Name as Headline
 ![Screenshot iOS](http://url/screenshot-appname-ios.png "screenshot iOS")
 
 #### App Stores
-[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.package.path)
+<!-- edit this image location -->
+[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
-[![Download on the AppStore](https://devimages.apple.com.edgekey.net/assets/promos/four/app-store-badge/image.png)](https://itunes.apple.com/app/id123456)
+<!-- edit this image location -->
+[![Download on the AppStore](https://raw.github.com/repat/README-template/master/appstore.png)](https://itunes.apple.com/app/id123456)
 
 #### QR Market Links
 ![QR-Code Android](http://url/qrcode-appname-android.png)
