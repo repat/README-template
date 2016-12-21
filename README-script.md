@@ -8,7 +8,7 @@ $ ./script parameter1 .. parameterN
 $ 
 ```
 ## Version 
-* Version X.Y
+* Version X.Y.Z
 
 ## Contact
 #### Developer/Company
