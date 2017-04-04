@@ -1,6 +1,6 @@
 README-template
 ======
-**README-template** is a collection of well designed templates for the READMEs on GitHub. Most of the times I find myself writing the same things in the description and thought I could make a template out of this.
+**README-template** is a collection of well-designed templates for the READMEs on GitHub. Most of the times I find that I could just make a template for the description based on the same thought and content.
 
 ## Available Templates
 * [For Android/iOS Apps](https://github.com/repat/README-template/blob/master/README-apps.md)
