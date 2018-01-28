@@ -1,4 +1,4 @@
-README-template.sd
+README-template.sdx
 ======
 **README-template** is a collection of well designed templates for the READMEs on GitHub. Most of the times I find myself writing the same things in the description and thought I could make a template out of this.
 
