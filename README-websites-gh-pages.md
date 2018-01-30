@@ -8,7 +8,7 @@ username.github.io
 ## Technology
 * CSS frameworks, e.g. BootStrap
 * Themes
-* JS frameworks, e.g. jQuery
+* JS frameworks, e.g. jQuery 2
 * IconSets, e.g. Glyphicons
 * [GitHub Pages](http://pages.github.com/)
 * [robots.txt](https://github.com/username/username.github.io/blob/master/robots.txt)
