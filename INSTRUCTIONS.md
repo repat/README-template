@@ -1,4 +1,4 @@
-Instructions for ProjectName
+Instructions for my ProjectName
 ======
 0. Prerequisites
 
