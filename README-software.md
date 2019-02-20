@@ -11,8 +11,8 @@ Software Name as Headline
 
 ## Usage
 ```$ git clone https://github.com/username/software-project.git
-...```
-
+...
+```
 ## Contributors
 
 ### Contributors on GitHub
